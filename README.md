@@ -4,6 +4,8 @@ Este é um BOT exclusivo do servidor Canal Abelha, link do servidor: [Clique Aqu
 
 o BOT foi desenvolvido por: **Shinyu** Tag Discord: **Shinyu#1939**
 
+![Canal Abelha Logo](https://i.imgur.com/OfBH7vG.jpg)
+
 # Comandos
 
 ## Moderação
